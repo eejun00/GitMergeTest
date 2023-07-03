@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitMergeTest
 {
+        //{ 2023. 07. 03. ModiFied class position / Alpha
     public class Program
     {
         static void Main(string[] args)

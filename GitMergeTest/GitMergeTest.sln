@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitMergeTest", "GitMergeTest.csproj", "{D17C0A53-31D8-4D73-A3BE-41C29BCAFD3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17C0A53-31D8-4D73-A3BE-41C29BCAFD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17C0A53-31D8-4D73-A3BE-41C29BCAFD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17C0A53-31D8-4D73-A3BE-41C29BCAFD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17C0A53-31D8-4D73-A3BE-41C29BCAFD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB2799EC-DFD1-4C31-928B-44D81F1BBA23}
+	EndGlobalSection
+EndGlobal
